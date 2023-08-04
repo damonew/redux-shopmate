@@ -1,4 +1,10 @@
 ### REDUX version of the Shopmate guided project from React JS Masterclass.
+
+#### [Redux Shopmate Netlify Deployment](https://damonwilliams-redux-shopmate.netlify.app)
+
+#### [Github repository](https://github.com/damonew/redux-shopmate)
+
+
 ### [React JS Masterclass - Go From Zero To Job Ready](https://learning.oreilly.com/videos/react-js-masterclass/9781805125549/)
 
 ### The goal of this project was to teach Reducers, useContect hook.
